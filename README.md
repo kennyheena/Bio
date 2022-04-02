@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kenny
 - 👀 I’m interested in Mobile App Development and front-end web development
 - 🌱 I’m currently studying MBA, I am a graduate in Bachelors of Information Technology (Mobile and Apps Development)
-- 💞️ I’m looking to collaborate on any projects or Jobs. (Based in Sydney, Australia)
+<!--- 💞️ I’m looking to collaborate on any projects or Jobs. (Based in Sydney, Australia)--->
 - 📫 How to reach me kenny.heena@gmail.com
 
 <!---
